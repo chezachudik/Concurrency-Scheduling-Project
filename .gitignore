@@ -1,0 +1,17 @@
+# Executables
+pipeline
+warehouse
+scheduler
+
+# Object files
+*.o
+
+# VS Code / IDE
+.vscode/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.log
+
