@@ -1,10 +1,7 @@
-Group: 59028709, 58992077
 Members:
-  SEITZHANOV Islam (iseitzhan2, ID: 59028709)
-  KONTAYEV Dauren (dkontayev2, ID: 58992077)
+  SEITZHANOV Islam
 
 How to compile:
-  cd CS3103
   make all
 
 This will produce three executables:
